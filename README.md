@@ -1,20 +1,13 @@
-\# 🛸 Conviction Clash
+# 🛸 Conviction Clash
 
-
-
-\*\*AI-Powered On-Chain Space Battles built on Avalanche\*\*  
+**AI-Powered On-Chain Space Battles built on Avalanche**  
 
 
 
 > Where your \*\*economic conviction powers your ship\*\*.  
 
 
-
----
-
-
-
-\## 🚀 Project Overview
+## 🚀 Project Overview
 
 
 
@@ -34,17 +27,16 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 \### 🟢 Wallet Integration
 
-\- Connect via \*\*MetaMask\*\* or \*\*Core Wallet\*\*  
+- Connect via \*\*MetaMask\*\* or \*\*Core Wallet\*\*  
+- Supports \*\*Avalanche Fuji testnet\*\*  
 
-\- Supports \*\*Avalanche Fuji testnet\*\*  
-
-\- Displays connected wallet address
-
+- Displays connected wallet address
 
 
-\### 🔴 Thesis Selection \& Staking
 
-\- Choose an economic thesis:  
+### 🔴 Thesis Selection \& Staking
+
+- Choose an economic thesis:  
 
 &nbsp; - \*\*AVAX Ecosystem Growth\*\*  
 
@@ -58,7 +50,7 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 
 
-\### ⚡ Conviction Engine
+### ⚡ Conviction Engine
 
 \- AI analyzes live Avalanche data (staking, TVL, token momentum)  
 
@@ -84,7 +76,7 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 
 
-\### 📊 Conviction Dashboard
+### 📊 Conviction Dashboard
 
 \- Displays AI Conviction Score  
 
@@ -94,7 +86,7 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 
 
-\### 🔗 On-Chain Interactions
+### 🔗 On-Chain Interactions
 
 \- Thesis staking → triggers smart contract  
 
@@ -108,7 +100,7 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 
 
-\## 🏗 Architecture Overview
+## 🏗 Architecture Overview
 
 
 
