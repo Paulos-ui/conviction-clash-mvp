@@ -4,14 +4,14 @@
 
 
 
-> Where your \*\*economic conviction powers your ship\*\*.  
+> Where your **economic conviction powers your ship**.  
 
 
 ## 🚀 Project Overview
 
 
 
-\*\*Conviction Clash\*\* is a Web3 PvP space battle game that merges \*\*AI\*\*, \*\*DeFi mechanics\*\*, and \*\*on-chain data\*\*.  
+**Conviction Clash** is a Web3 PvP space battle game that merges **AI**, **DeFi mechanics**, and **on-chain data**.  
 
 Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analyzes live Avalanche ecosystem data to dynamically boost ship stats in battles. Battle outcomes are recorded on-chain, creating transparent leaderboards and competitive gameplay driven by real-world conviction.
 
