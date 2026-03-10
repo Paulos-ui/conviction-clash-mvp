@@ -13,7 +13,7 @@
 
 **Conviction Clash** is a Web3 PvP space battle game that merges **AI**, **DeFi mechanics**, and **on-chain data**.  
 
-Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analyzes live Avalanche ecosystem data to dynamically boost ship stats in battles. Battle outcomes are recorded on-chain, creating transparent leaderboards and competitive gameplay driven by real-world conviction.
+Players stake AVAX into economic theses, and our **Conviction Engine** analyzes live Avalanche ecosystem data to dynamically boost ship stats in battles. Battle outcomes are recorded on-chain, creating transparent leaderboards and competitive gameplay driven by real-world conviction.
 
 
 
@@ -21,14 +21,14 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 
 
-\## 🎯 Features
+## 🎯 Features
 
 
 
-\### 🟢 Wallet Integration
+### 🟢 Wallet Integration
 
-- Connect via \*\*MetaMask\*\* or \*\*Core Wallet\*\*  
-- Supports \*\*Avalanche Fuji testnet\*\*  
+- Connect via **MetaMask** or **Core Wallet**  
+- Supports **Avalanche Fuji testnet**  
 
 - Displays connected wallet address
 
@@ -38,23 +38,23 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 - Choose an economic thesis:  
 
-&nbsp; - \*\*AVAX Ecosystem Growth\*\*  
+&nbsp; - **AVAX Ecosystem Growth**  
 
-&nbsp; - \*\*DeFi Expansion\*\*  
+&nbsp; - **DeFi Expansion**  
 
-&nbsp; - \*\*Gaming Subnet Surge\*\*  
+&nbsp; - **Gaming Subnet Surge**  
 
-\- Stake AVAX to power your thesis  
+- Stake AVAX to power your thesis  
 
-\- Generates \*\*Conviction Score\*\* via AI engine
+- Generates **Conviction Score** via AI engine
 
 
 
 ### ⚡ Conviction Engine
 
-\- AI analyzes live Avalanche data (staking, TVL, token momentum)  
+- AI analyzes live Avalanche data (staking, TVL, token momentum)  
 
-\- Outputs \*\*dynamic stat modifiers\*\*:  
+- Outputs **dynamic stat modifiers**:  
 
 &nbsp; - Attack Boost  
 
@@ -64,15 +64,15 @@ Players stake AVAX into economic theses, and our \*\*Conviction Engine\*\* analy
 
 
 
-\### 🛸 PvP Space Battle
+### 🛸 PvP Space Battle
 
-\- 2D real-time battle simulation using \*\*Phaser.js\*\*  
+- 2D real-time battle simulation using \*\*Phaser.js\*\*  
 
-\- Ships reflect AI-powered stat boosts  
+- Ships reflect AI-powered stat boosts  
 
-\- Visual effects for attack, shield, and special abilities  
+- Visual effects for attack, shield, and special abilities  
 
-\- Winner highlighted and battle result submitted on-chain
+- Winner highlighted and battle result submitted on-chain
 
 
 
