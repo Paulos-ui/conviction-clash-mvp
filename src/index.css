@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 4%;
+    --foreground: 240 5% 92%;
+
+    --card: 240 8% 7%;
+    --card-foreground: 240 5% 92%;
+
+    --popover: 240 8% 7%;
+    --popover-foreground: 240 5% 92%;
+
+    --primary: 359 78% 58%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 240 8% 7%;
+    --secondary-foreground: 240 4% 42%;
+
+    --muted: 240 8% 10%;
+    --muted-foreground: 240 4% 42%;
+
+    --accent: 240 8% 12%;
+    --accent-foreground: 240 5% 92%;
+
+    --destructive: 359 78% 58%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 240 6% 15%;
+    --input: 240 6% 15%;
+    --ring: 359 78% 58%;
+
+    --radius: 0px;
+
+    --sidebar-background: 240 8% 7%;
+    --sidebar-foreground: 240 4% 42%;
+    --sidebar-primary: 359 78% 58%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 8% 12%;
+    --sidebar-accent-foreground: 240 5% 92%;
+    --sidebar-border: 240 6% 15%;
+    --sidebar-ring: 359 78% 58%;
+
+    /* Custom tokens */
+    --text-inactive: 240 4% 42%;
+    --text-active: 240 5% 92%;
+    --panel: 240 8% 7%;
+    --surface: 240 8% 10%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-mono;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  p, span.body-text {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .font-body {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .text-inactive {
+    color: hsl(var(--text-inactive));
+  }
+
+  .text-active {
+    color: hsl(var(--text-active));
+  }
+}
+
+/* Signature moment: transaction pending state */
+@keyframes pulse-red {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes scan-line {
+  0% { top: 0; }
+  100% { top: 100%; }
+}
+
+@keyframes fade-panels {
+  0% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+
+.animate-pulse-red {
+  animation: pulse-red 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.panels-dimmed {
+  opacity: 0.5;
+  transition: opacity 0.6s ease;
+}
+
+.panels-active {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+}

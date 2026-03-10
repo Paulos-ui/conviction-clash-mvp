@@ -1,0 +1,10 @@
+project_id = "vcvxuujnixfknzicpcct"
+
+[functions.calculate-conviction]
+verify_jwt = false
+
+[functions.get-player-stats]
+verify_jwt = false
+
+[functions.submit-battle-result]
+verify_jwt = false

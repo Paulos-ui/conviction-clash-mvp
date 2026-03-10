@@ -2,7 +2,7 @@
 
 **AI-Powered On-Chain Space Battles built on Avalanche**  
 
-
+Wesite testing:  https://clash-conviction-glow.lovable.app/
 
 > Where your **economic conviction powers your ship**.  
 
@@ -88,11 +88,11 @@ Players stake AVAX into economic theses, and our **Conviction Engine** analyzes 
 
 ### 🔗 On-Chain Interactions
 
-\- Thesis staking → triggers smart contract  
+- Thesis staking → triggers smart contract  
 
-\- Battle result logging → recorded on-chain  
+- Battle result logging → recorded on-chain  
 
-\- Leaderboard updates → viewable for transparency
+- Leaderboard updates → viewable for transparency
 
 
 
